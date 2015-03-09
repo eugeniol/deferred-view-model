@@ -1,0 +1,31 @@
+{
+  "name": "deferred-view-model",
+  "version": "0.0.1",
+  "description": "Express middleware thats allow to pass promises() objects to view",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eugeniol/deferred-view-model.git"
+  },
+  "keywords": [
+    "deferred",
+    "harmony",
+    "promise",
+    "ES6",
+    "express",
+    "middleware",
+    "viewModel"
+  ],
+  "author": "Eugenio Lattanzio <eugenio63@gmail.com> (http://ukesoft.com/)",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/eugeniol/deferred-view-model/issues"
+  },
+  "homepage": "https://github.com/eugeniol/deferred-view-model",
+  "dependencies": {
+    "jquery-deferred": "^0.3.0"
+  }
+}
